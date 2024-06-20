@@ -1,7 +1,7 @@
-# **Eka Kirkitadze**
+# **Name Last name**
 ### Contact information
-##### **Phone:** 89174638249
-**E-mail:** ekkirkitadze@gmail.com
+##### **Phone:** -----
+**E-mail:** ------
 
 **Discort:** infared1
 
