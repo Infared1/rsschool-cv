@@ -4,7 +4,8 @@
 **E-mail:** ekkirkitadze@gmail.com
 **Discort:** infared1
 ****
-![Me]("")
+![Me]("/photo.png")
+
 
 
 
