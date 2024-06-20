@@ -4,7 +4,7 @@
 **E-mail:** ekkirkitadze@gmail.com
 **Discort:** infared1
 ****
-![Me]("/images/photo.png")
+![Me]("images/photo.png")
 ### About me:
 
 I'm a clinical psychologist and working with professional sportsmen now. Also I have legal education. I got involved of Photoshop and creating simple designs on mybb.ru.
