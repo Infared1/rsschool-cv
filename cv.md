@@ -22,6 +22,13 @@ function numberToString(num) {
   return num.toString();
 }
 ```
-
+### Education
++ Bashkir State University - jurisprudence (bachelor and master degree); clinical psychology (master degree)
++ Moscow State University - sport psychology (courses)
+### Language
+* Russian - native
+* English - Intermediate
+### My projects:
+[Work CV](https://github.com/Infared1/rsschool-cv/gh-pages "CV")
 
 
