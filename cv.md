@@ -32,6 +32,6 @@ function numberToString(num) {
 * Russian - native
 * English - Intermediate
 ### My projects:
-[Work CV](https://github.com/Infared1/rsschool-cv/gh-pages "CV")
+[Work CV](https://Infared1.github.io/rsschool-cv/cv "CV")
 
 
