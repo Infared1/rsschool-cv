@@ -15,6 +15,13 @@ I decided to start learn new profession because it's interesting for me but very
 + GitHub
 + Git Bash
 + English
+****
+### Code example from Codewars.com:
+```
+function numberToString(num) {
+  return num.toString();
+}
+```
 
 
 
