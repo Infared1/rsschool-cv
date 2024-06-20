@@ -3,8 +3,9 @@
 ##### **Phone:** 89174638249
 **E-mail:** ekkirkitadze@gmail.com
 **Discort:** infared1
+
 ****
-![Me]("images/photo.png")
+![Me]("https://magazine.fortevillageresort.com/wp-content/uploads/2022/01/tennis-1024x683.jpg")
 ### About me:
 
 I'm a clinical psychologist and working with professional sportsmen now. Also I have legal education. I got involved of Photoshop and creating simple designs on mybb.ru.
