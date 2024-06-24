@@ -1,4 +1,4 @@
-# **Name Last name**
+# **Eka Kirkitadze**
 ### Contact information
 ##### **Phone:** -----
 **E-mail:** ------
