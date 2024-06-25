@@ -158,3 +158,18 @@ a {
        a:active {
         color: #bcbcbe; 
        }
+
+       .footer_conteiner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 auto;
+        color: #fff;
+    }
+    .rss {
+        width: 121px;
+        height: 45px;
+        background-image: url("../img/rss_logo.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+      }
