@@ -1,0 +1,208 @@
+
+   * {
+    box-sizing: border-box;
+  }
+
+    body {
+        min-height: 100vh;
+        margin: 0; padding: 0;
+        font-family: "PT Sans", sans-serif;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .container {
+        max-width: 1440px;
+        margin: 0 auto; 
+      }
+
+      .nav-list {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      html {
+        scroll-behavior: smooth; 
+      }
+
+      .nav-list, .section-list /*.nav_marks*/ {
+        list-style: none;
+      }
+
+      .nav-link {
+        padding: 0 20px;
+        line-height: 50px;
+      }
+
+      .nav-link {
+        transition: .3s;
+      }
+
+      a:hover {
+        background: #1d1d1e; 
+        color: #ffe; }
+
+    .section {
+        text-align: center;
+    }
+
+    /*.column {
+        border-collapse: collapse;
+    }
+
+    .columns__item{
+        padding: 0;
+        width: 50%;
+        vertical-align: top;
+    }
+
+    .columns__item_first {
+        padding-right: 10px;
+    }
+
+    .columns__item_second {
+        padding-right: 10px;
+    }
+
+    .conteiner_columns{
+        width: 70%;
+        margin: 0 auto;
+    }*/
+
+    .main-container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      
+      .section {
+        width: 50%;
+        padding: 10px;
+        padding-bottom: 35px;
+        border-bottom: 1px solid #1d1d1e;
+      }
+    
+
+    
+    /*.container_info {
+            max-width: 800px;
+            margin: 0 auto;
+        }*/
+
+         /* .section-title {
+            width: 50%; } */
+        
+       @media (max-width: 768px) {
+          .section {
+            width: 100%;
+          }
+        }
+
+          .section-profile-logo {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 50%;
+            box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+            filter: grayscale(0.2) brightness(1.05);
+            transition: .3s;
+        }
+
+          .section-title {
+            font-size: 20px;
+            font-weight: 400;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            color: #2D0A5B;
+          }
+
+          .main-title {
+            position:relative;
+            padding: 0;
+            margin-bottom: 20px;
+            line-height: 50px;
+            word-spacing: 3px;
+            font-size: 35px;
+            font-weight: 400;
+            letter-spacing: 10px;
+            color: #2D0A5B;
+          }
+
+          .main-title::after {
+            content: "";
+            position: absolute;
+            bottom: -19px;
+            left: 50%;
+            margin-left: -70px;
+            width: 140px;
+            height: 2px;
+            background-color: #3d3d5a;
+          }
+
+        .section-subtitle {
+            margin-top: 20px;
+            color: #000000;
+            line-height: 50px;
+            font-weight: 300;
+            letter-spacing: 2px;
+          }
+
+          .section-profile {
+            display: flex;
+            justify-content: space-around;
+            width: 100%;
+            padding: 50px 30px 35px;
+            border-bottom: 15px solid #3d3d5a;
+          }
+
+          p {
+            font-size: 15px;
+            font-weight: 400;
+            color: #000000;
+          }
+
+          header {
+            background: #3d3d5a;
+            color: #c9c6ce; 
+        }
+
+        ul {
+              color:#3d3d5a;
+            }
+        footer {
+              background: #3d3d5a;
+              color: #c9c6ce; 
+            }
+
+        .container {
+              text-align: center; }
+
+        a {
+                color: #6a20ecd5;
+               }
+               a:visited {
+                color: #a9b2f1;
+               }
+               a:active {
+                color: #bcbcbe; 
+               }
+
+        .footer_conteiner {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin: 0 auto;
+            color: #fff;
+        }
+        .rss {
+            width: 121px;
+            height: 45px;
+            background-image: url("../img/rss_logo.png");
+            background-size: contain;
+            background-repeat: no-repeat;
+          }
